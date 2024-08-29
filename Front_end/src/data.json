@@ -1,0 +1,227 @@
+[
+    {
+        "id": 1,
+        "name": "Chicken Roast",
+        "details": "A couple of simple ingredients with no-fuss prep make a roast chicken that many swear is the juiciest they've ever eaten.",
+        "rating": "4.2",
+        "pic": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/ywzqqskasfb7aszqaoud",
+        "category": "Non-veg",
+        "price": 50,
+        "weight": "200g",
+        "qty":1
+    },
+    {
+        "id": 2,
+        "name": "Mutton Roast",
+        "details": "Carefully, add the onion slices, salt and mutton slices to the pan. Deep fry the onion and mutton slices till they get golden brown in colour.",
+        "rating": "4.5",
+        "pic": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/hpirtpy349a0zu7miw3p",
+        "category": "Non-veg",
+        "price": 80,
+        "weight": "200 g",
+        "qty":1
+    },
+    {
+        "id": 3,
+        "name": "Chicken Mughlai",
+        "details": "Mughlai Chicken is a restaurant style, north Indian recipe with a creamy, dark brown onion gravy that will have you licking the plate!",
+        "rating": "4.2",
+        "pic": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/fh2dxv9fh4ply41m9tom",
+        "category": "Non-veg",
+        "price": 150,
+        "weight": "200 g",
+        "qty":1
+    },
+    {
+        "id": 4,
+        "name": "Mutton Curry",
+        "details": "A flavorsome and aromatic main course dish from North India highlighting succulent mutton cooked in a rich and savory gravy.",
+        "rating": "4.0",
+        "pic": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/eln284xsrql0sviyey0u",
+        "category": "Non-veg",
+        "price": 400,
+        "weight": "280 g",
+        "qty":1
+    },
+    {
+        "id": 5,
+        "name": "Mutton Masala",
+        "details": "A delightful North Indian main course dish showcasing tender meat paired with flavorful, aromatic spices.",
+        "rating": "4.1",
+        "pic": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/o005f36vthcjbz2bzfco",
+        "category": "Non-veg",
+        "price": 350,
+        "weight": "100 g",
+        "qty":1
+    },
+    {
+        "id": 6,
+        "name": "Mutton Roast",
+        "details": "Carefully, add the onion slices, salt and mutton slices to the pan. Deep fry the onion and mutton slices till they get golden brown in colour.",
+        "rating": "4.6",
+        "pic": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/hpirtpy349a0zu7miw3p",
+        "category": "Non-veg",
+        "price": 260,
+        "weight": "350 g",
+        "qty":1
+    },
+    {
+        "id": 7,
+        "name": "Chicken Chilli",
+        "details": "Chilli Chicken is a sweet, spicy and crispy appetizer, most popular in Indo-Chinese cuisine. Crispy marinated chicken is sauteed in a spicy",
+        "rating": "4.6",
+        "pic": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/6/29/10fcc21e-ce86-48e9-88ab-1d76d5e77fdb_cb99eeb7-1520-4f28-9ff0-c39e79644b98.JPG",
+        "category": "Non-veg",
+        "price": 320,
+        "weight": "200 g",
+        "qty":1
+    },
+    {
+        "id": 8,
+        "name": "Chicken Korma",
+        "details": "North-India style rich Mughlai korma of chicken braised in ghee, spices and nuts- looks spectacular.",
+        "rating": "3.8",
+        "pic": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/qb41u5gjb19ikjnanlec",
+        "category": "Non-veg",
+        "price": 250,
+        "weight": "250 g",
+        "qty":1
+    },
+    {
+        "id": 9,
+        "name": "Butter Chicken",
+        "details": "Butter chicken is a popular Indian dish made with chicken, spices, tomatoes & cream.",
+        "rating": "3.6",
+        "pic": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/oghuawtlzw4rz1rtx1pc",
+        "category":"Non-veg",
+        "weight": "150 g",
+        "qty":1
+    },
+    {
+        "id": 10,
+        "name": "Mutton Roast",
+        "details": "Carefully, add the onion slices, salt and mutton slices to the pan. Deep fry the onion and mutton slices till they get golden brown in colour.",
+        "rating": "4.8",
+        "pic": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/hpirtpy349a0zu7miw3p",
+        "category":"Non-veg",
+        "price": 450,
+        "weight": "150 g",
+        "qty":1
+    },
+    {
+        "id":11,
+        "name": "Butter Roti",
+        "details": "Soft and fluffy rotis topped with a generous serving of butter.",
+        "rating": "4.8",
+        "pic": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/f785f270238aebae0e9c80a9baf68af7",
+        "category":"vegtarion",
+        "price":40 ,
+        "weight": "80g",
+        "qty":1
+    },
+    {
+        "id":12 ,
+        "name": "Paneer Masala",
+        "details": "A flavorful and aromatic North Indian delicacy that perfectly combines tender paneer with a rich and luscious gravy.",
+        "rating": "4.8",
+        "pic": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/4/9/9240c74b-1cdb-4166-a0de-3bea442fb100_428d572e-3a42-436e-946b-c608e22c752e.JPG",
+        "category":"vegtarion",
+        "price":280 ,
+        "weight": "120g",
+        "qty":1
+    },
+
+    {
+        "id":13,
+        "name": "Kadai Paneer",
+        "details": "A tantalizing vegetarian delight that combines succulent paneer with a rich blend of flavors, creating a mouthwatering main course.",
+        "rating": "4.8",
+        "pic": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/6/27/e461370e-e708-40a1-9b99-7bc629d1fffc_ffc4aa00-a531-4d2a-8c6c-8ec90f3919ab.JPG",
+        "category":"vegtarion",
+        "price":129 ,
+        "weight": "60g",
+        "qty":1
+    },
+
+    {
+        "id": 14,
+        "name": "Paneer Butter Masala",
+        "details": "A delightfully wholesome combo with soft roti (3pcs); served along with paneer butter masala, fryums and onion.",
+        "rating": "4.8",
+        "pic": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/4/9/65396afd-3cc3-4419-acf9-411ce65725a2_f9520956-5c7f-4d88-9241-507fd29f6647.JPG",
+        "category":"vegtarion",
+        "price": 160,
+        "weight": "200g",
+        "qty":1
+    },
+
+    {
+        "id":15 ,
+        "name": "Palak Paneer",
+        "details": "A flavorful and creamy Indian delicacy made with freshly pureed spinach and soft chunks of fresh cheese.",
+        "rating": "4.8",
+        "pic": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/4/9/7875d792-d9ed-40fa-ae3c-2a61968e955f_d509719d-3aed-4bf5-8bc0-14ba6c32951c.JPG",
+        "category":"vegtarion",
+        "price": 260,
+        "weight": "160g",
+        "qty":1
+    },
+
+    {
+        "id": 16,
+        "name": "Chana Masala",
+        "details": "A tasty and savory gravy made from cooking chickepeas in a flavorful gravy, seasoned with Indian spices.",
+        "rating": "4.8",
+        "pic": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/4/9/ca4ef6c2-df8f-467e-9b3c-cd80513e0bdd_31c31ce6-6b59-4d78-8dde-860b67ff2971.JPG",
+        "category":"vegtarion",
+        "price":70 ,
+        "weight": "130g",
+        "qty":1
+    },
+
+    {
+        "id":17,
+        "name": "Baingan Bharta",
+        "details": "A flavorful and aromatic vegetable dish that is sure to tantalize your taste buds.",
+        "rating": "4.8",
+        "pic": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/4/9/4a861111-f06d-47af-a32f-943e4ae8e270_9cc6fc37-b3f3-4077-91b2-f0b06fca0f8a.JPG",
+        "category":"vegtarion",
+        "price":170 ,
+        "weight": "200g",
+        "qty":1
+    },
+    {
+        "id":18 ,
+        "name": "Sev Tamatar",
+        "details": "A flavorful and tangy vegetable dish, perfect for a satisfying main course.",
+        "rating": "4.1",
+        "pic": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/4/9/9b0cbcd0-13c7-4465-82ce-fa87f31ae321_bd30fd1e-b6a0-4924-ac27-200076a21b32.JPG",
+        "category":"vegtarion",
+        "price":130 ,
+        "weight": "80",
+        "qty":1
+    },
+    {
+        "id": 19,
+        "name": "Dal Tadka",
+        "details": "A flavorful Indian lentil dish with a rich, aromatic tempering, perfect for a satisfying main course.",
+        "rating": "4.8",
+        "pic": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/4/9/44bbdfb6-b8dd-413f-8771-ed0ca4129dd7_1ed25d17-1318-44cd-a36c-df5e3d07e3b4.JPG",
+        "category":"vegtarion",
+        "price": 90,
+        "weight":"100g",
+        "qty":1
+    },
+    {
+        "id":20,
+        "name": "Butter Roti",
+        "details": "Soft and fluffy rotis topped with a generous serving of butter.",
+        "rating": "4.8",
+        "pic": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/f785f270238aebae0e9c80a9baf68af7",
+        "category":"vegtarion",
+        "price":60 ,
+        "weight": "80g",
+        "qty":1
+    }
+
+]
